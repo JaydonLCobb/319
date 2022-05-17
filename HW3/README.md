@@ -1,0 +1,2 @@
+To compile the snake game, unzip the file to your chosen destination (making sure both snake.js and snake.html are in the same folder location) and double click/run snake.html, chose any browser to open with.
+To compile the hw3 file, open terminal, cd to the location that you have extracted hw3.js to, type "node hw3.js" and then hit enter, it will prompt you for the necessary numbers inside your terminal and then output.

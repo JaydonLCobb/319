@@ -1,0 +1,1 @@
+Extract files to eclipse package (location), move your chromedriver to the C drive and run as a JUNIT4 test.
